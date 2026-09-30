@@ -38,7 +38,15 @@ Data is read back into memory each time the application starts, so information p
 
 Screenshots
 
-Screenshots of the running application will be added here.
+### Main Menu
+![Main Menu](main-menu.png)
+
+### Bill Generation
+![Bill Generation](bill-generation.png)
+
+### Daily Report
+![Daily Report](daily-report.png)
+
 -->
 
 
